@@ -12,7 +12,7 @@ import javax.swing.Timer;
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 
-public class Gameplay extends JPanel implements KeyListener, ActionListener {
+public class Gameplay  extends javax.swing.JPanel implements KeyListener, ActionListener {
 	private ImageIcon titleImage;
 	
 	private int[] snakexlength=new int[750];

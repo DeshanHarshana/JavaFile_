@@ -1,0 +1,5 @@
+print("hellow")
+name="Deshan"
+print(name)
+for i in name:
+    print(i,end=" ")

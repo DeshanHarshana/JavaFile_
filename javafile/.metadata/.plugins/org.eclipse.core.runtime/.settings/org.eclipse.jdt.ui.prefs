@@ -1,0 +1,29 @@
+content_assist_autoactivation_triggers_java=abcdefghijklmnopqrstuvwxyz
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.deshanpc.hibanate.Alion_name"><rhs name\="com.deshanpc.hibanate.Alion_name"/></lhs><lhs name\="com.phone.OS"><rhs name\="com.phone.Android"/></lhs><lhs name\="OS"><rhs name\="Android"/><rhs name\="Symbian"/><rhs name\="Windows"/></lhs><lhs name\="OperionStystemFactory"><rhs name\="OperionStystemFactory"/></lhs><lhs name\="com.bulider.Phone"><rhs name\="com.bulider.Phone"/></lhs><lhs name\="com.bulider.Phonebulider"><rhs name\="com.bulider.Phonebulider"/></lhs><lhs name\="com.method.Random"><rhs name\="com.method.Random"/></lhs><lhs name\="java.util.Random"><rhs name\="java.util.Random"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="PilotPen"><rhs name\="PilotPen"/></lhs><lhs name\="Pen"><rhs name\="PenAdaptoar"/></lhs><lhs name\="MarkerPen"><rhs name\="MarkerPen"/></lhs><lhs name\="java.lang.Runnable"><rhs name\="Arr"/><rhs name\="java.lang.Thread"/></lhs><lhs name\="java.lang.Thread"><rhs name\="Arr"/><rhs name\="java.lang.Thread"/></lhs><lhs name\="javax.swing.WindowConstants"><rhs name\="javax.swing.JFrame"/><rhs name\="Mainclass"/></lhs><lhs name\="javax.accessibility.Accessible"><rhs name\="javax.swing.JFrame"/><rhs name\="javax.swing.ImageIcon"/><rhs name\="Gameplay"/><rhs name\="Mainclass"/></lhs><lhs name\="javax.swing.RootPaneContainer"><rhs name\="javax.swing.JFrame"/><rhs name\="Mainclass"/></lhs><lhs name\="javax.swing.TransferHandler$HasGetTransferHandler"><rhs name\="javax.swing.JFrame"/><rhs name\="Gameplay"/><rhs name\="Mainclass"/></lhs><lhs name\="java.awt.Frame"><rhs name\="javax.swing.JFrame"/><rhs name\="Mainclass"/></lhs><lhs name\="java.awt.MenuContainer"><rhs name\="javax.swing.JFrame"/><rhs name\="Gameplay"/><rhs name\="Mainclass"/></lhs><lhs name\="java.awt.Window"><rhs name\="javax.swing.JFrame"/><rhs name\="Mainclass"/></lhs><lhs name\="java.awt.Container"><rhs name\="javax.swing.JFrame"/><rhs name\="Gameplay"/><rhs name\="Mainclass"/></lhs><lhs name\="java.awt.Component"><rhs name\="javax.swing.JFrame"/><rhs name\="Gameplay"/><rhs name\="Mainclass"/></lhs><lhs name\="java.awt.image.ImageObserver"><rhs name\="javax.swing.JFrame"/><rhs name\="Gameplay"/><rhs name\="Mainclass"/></lhs><lhs name\="javax.swing.JFrame"><rhs name\="javax.swing.JFrame"/><rhs name\="Mainclass"/></lhs><lhs name\="java.awt.Paint"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Transparency"><rhs name\="java.awt.Color"/></lhs><lhs name\="java.awt.Color"><rhs name\="java.awt.Color"/></lhs><lhs name\="javax.swing.JPanel"><rhs name\="Gameplay"/></lhs><lhs name\="javax.swing.JComponent"><rhs name\="Gameplay"/></lhs><lhs name\="Gameplay"><rhs name\="Gameplay"/></lhs><lhs name\="javax.swing.Icon"><rhs name\="javax.swing.ImageIcon"/></lhs><lhs name\="javax.swing.ImageIcon"><rhs name\="javax.swing.ImageIcon"/></lhs><lhs name\="javax.swing.Timer"><rhs name\="javax.swing.Timer"/></lhs><lhs name\="java.awt.Font"><rhs name\="java.awt.Font"/></lhs><lhs name\="Main"><rhs name\="Main"/></lhs><lhs name\="Mainclass"><rhs name\="Mainclass"/></lhs><lhs name\="java.awt.event.KeyListener"><rhs name\="Gameplay"/></lhs><lhs name\="java.util.EventListener"><rhs name\="Gameplay"/></lhs><lhs name\="java.awt.event.ActionListener"><rhs name\="Gameplay"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuilder"/><rhs name\="java.lang.String"/></lhs><lhs name\="Arr"><rhs name\="Arr"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.InterruptedException"><rhs name\="java.lang.InterruptedException"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuilder"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuilder"/></lhs></history>
+content_assist_number_of_computers=23
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+do_not_ask_to_install_user_dictionary=true
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=14
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_ignore_ampersand_in_properties=true
+spelling_ignore_digits=true
+spelling_ignore_java_strings=true
+spelling_ignore_mixed=true
+spelling_ignore_non_letters=true
+spelling_ignore_sentence=true
+spelling_ignore_single_letters=true
+spelling_ignore_upper=true
+spelling_ignore_urls=true
+spelling_locale_initialized=true
+spelling_user_dictionary_encoding=
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

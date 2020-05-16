@@ -1,0 +1,17 @@
+-- VERSION_5
+-- START DISKCACHE_2
+F:\eclips fils\.metadata\.plugins\org.eclipse.core.resources\.projects\Example\com.python.pydev.analysis\v2_indexcache
+hello|1540920957195241000|F:\eclips fils\Example\hello.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=F:\eclips fils\Example\hello.py
+2=hello
+-- END DICTIONARY
+-- START TREE 1
+1
+h|1|h!1^2#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

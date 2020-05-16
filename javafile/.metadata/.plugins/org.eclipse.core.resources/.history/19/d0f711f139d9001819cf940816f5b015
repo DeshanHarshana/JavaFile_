@@ -1,0 +1,30 @@
+package com.inter;
+
+import java.nio.channels.ShutdownChannelGroupException;
+
+public class inter {
+
+	public static void main(String[] args) {
+		A obj=new B();
+		obj.p();
+
+	}
+
+}
+interface A{
+	void p();
+	
+		
+	
+}
+
+class B implements A{
+	public void p() {
+		show();
+	}
+	
+	public void show() {
+		System.out.println("Example");
+	}
+}
+

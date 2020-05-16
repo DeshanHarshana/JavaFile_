@@ -1,0 +1,11 @@
+def fun1():
+    print("hello")
+    print("565")
+    
+def add_num(x,y):
+    c=x+y
+    return c
+
+p=add_num(4, 6)
+
+print(p)

@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Overridye",
+            "request": "launch",
+            "mainClass": "Overridye",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Abstract_Class<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Abstract_Class",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Abstract_Class_Problem<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Abstract_Class_Problem",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Abstract_Class_Solutuin<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Abstract_Class_Solutuin",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ano_With_interface<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Ano_With_interface",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Anonimus<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Anonimus",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Java_Interface<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Java_Interface",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LambdaExpression_Without_Making_object<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "LambdaExpression_Without_Making_object",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lambda_Expression<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Lambda_Expression",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Override<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Override",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Runtime_polymorphism<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Runtime_polymorphism",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Syncrenition<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "Syncrenition",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-inhertance<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "inhertance",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-kpl<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "kpl",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-multi1<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "multi1",
+            "projectName": "MultiThredingf"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-multi3_Lambda_Expression<MultiThredingf>",
+            "request": "launch",
+            "mainClass": "multi3_Lambda_Expression",
+            "projectName": "MultiThredingf"
+        }
+    ]
+}

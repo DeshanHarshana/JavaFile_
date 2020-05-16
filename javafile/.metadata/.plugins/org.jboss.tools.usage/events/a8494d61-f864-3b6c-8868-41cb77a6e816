@@ -1,0 +1,11 @@
+#Fri Feb 15 08:45:58 IST 2019
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1550200558750
+c=0
+cmp=usage
+a=finishWizard
+cl=org.python.pydev.ui.wizards.project.PythonProjectWizard
+v=2.2.200
+s=0
